@@ -1,1 +1,2 @@
-Web application for cocktail recipes.
+
+MixersGuidedk is an innovative cocktail recipe application designed to elevate your mixology experience. Powered by the extensive drink-db, it offers a vast array of popular cocktail recipes at your fingertips. Advanced features such as filtering and caching ensure seamless performance even with frequent use. The intuitive UI simplifies navigation, while each cocktail's preparation is meticulously detailed in a step-by-step guide, empowering users of all skill levels to craft their favorite drinks with ease and precision. Whether you're a seasoned bartender or a novice enthusiast, MixersGuidedk is your go-to companion for mastering the art of mixology.
